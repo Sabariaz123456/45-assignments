@@ -1,0 +1,19 @@
+{
+  "name": "exercise-43",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "modules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.25"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.29"
+  }
+}

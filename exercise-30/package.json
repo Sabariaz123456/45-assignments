@@ -1,0 +1,16 @@
+{
+  "name": "exercise-30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "modules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.25"
+  }
+}
